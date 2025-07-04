@@ -1,0 +1,24 @@
+
+RAPPORT GÉNÉRATION CATALOGUE PRODUITS
+==================================================
+
+📊 STATISTIQUES GÉNÉRALES:
+- Produits générés: 10000
+- Valeur totale du stock: 804,807,945.37€
+- Prix moyen: 3219.23€
+
+📂 RÉPARTITION PAR CATÉGORIE:
+--------------------------------------------------
+• Bijoux & Accessoires: 1009 produits - 463,670,905.63€
+• Maison: 919 produits - 14,444,814.76€
+• Mode Femme: 2018 produits - 90,820,530.32€
+• Mode Homme: 1009 produits - 7,771,551.12€
+• Électronique: 5045 produits - 228,100,143.54€
+
+📁 FICHIERS GÉNÉRÉS:
+--------------------------------------------------
+• produits.json: 10000 produits au format JSON
+• rapport_generation.txt: ce rapport détaillé
+
+🎯 STRUCTURE JSON:
+Chaque produit contient: id_produit, nom, description, catégorie, prix, stock, image_url
