@@ -1,0 +1,17 @@
+# Environnement virtuel Python
+venv/
+
+# Cache Python
+__pycache__/
+
+# Fichier zip (potentiellement volumineux ou généré automatiquement)
+catalogue_reel.zip
+
+# Fichiers système
+*.pyc
+*.pyo
+*.pyd
+
+# Configuration spécifique à l'éditeur (facultatif)
+.vscode/
+.idea/

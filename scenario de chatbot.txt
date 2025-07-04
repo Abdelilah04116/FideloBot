@@ -1,0 +1,60 @@
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 Pour les visiteurs
+En arrivant sur le site, le visiteur remarque immédiatement l’icône du chatbot située en bas à droite de l’écran, lui signalant qu’une aide est disponible à tout moment. En cliquant sur cette icône, il ouvre une fenêtre de conversation où il peut poser ses premières questions. Sans être connecté, il peut interagir librement avec l’agent virtuel pour obtenir des renseignements sur les produits et ainsi faciliter sa prise de décision. À mesure que la conversation progresse, il reçoit une invitation à s’inscrire pour profiter de recommandations plus personnalisées.
+
+Le visiteur peut également poser des questions générales comme : « Quel produit convient pour un cadeau d’anniversaire ? » ou encore demander des suggestions par catégorie telles que high-tech ou mode, ce qui lui permet de découvrir les rayons du site de manière guidée et intuitive.
+
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 Pour les utilisateurs non connectés
+Même sans compte, l’utilisateur peut poser toutes ses questions sur les produits et le processus d’achat. Le chatbot l’informe de manière proactive des avantages à s’inscrire, notamment pour recevoir des suggestions plus ciblées en fonction de ses préférences et de son comportement de navigation.
+
+
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 Pour les clients connectés
+Une fois connecté, le client bénéficie d’une expérience beaucoup plus riche. Le chatbot le salue par son prénom, rendant la conversation plus humaine et conviviale. Grâce à l’accès à son historique d’achats et à ses préférences (comme les couleurs ou marques favorites), le chatbot lui propose des produits complémentaires ou similaires à ceux qu’il a déjà consultés.
+
+Il peut recevoir des suggestions personnalisées en fonction de ses habitudes de navigation ou encore être alerté lorsque l’un de ses produits favoris est en promotion. L’agent peut également lui offrir un bon de réduction pour l’inciter à finaliser un achat.
+
+Le client peut interagir de manière plus directe : poser une question sur la disponibilité d’un produit en magasin, vérifier les délais de livraison, consulter le statut de sa commande ou encore signaler un problème. Il peut demander à être redirigé vers un conseiller humain si l’agent automatique ne parvient pas à répondre. Il a également la possibilité de noter la qualité des recommandations reçues via un système d’étoiles ou de laisser un retour rapide.
+
+Des fonctionnalités pratiques lui sont proposées : ajouter un produit au panier directement depuis le chat, consulter une FAQ interactive sans quitter la fenêtre, ou encore accéder à une fiche produit via un lien direct. Un carrousel d’images enrichit la recommandation, permettant une visualisation rapide des articles proposés.
+
+Le client peut aussi découvrir les best-sellers, demander une idée de cadeau adaptée au profil d’un proche, ou recevoir des alertes sur les produits en rupture prochaine. Il peut consulter les avis clients, poser des questions sur le processus de retour, ou encore découvrir les opportunités de parrainage.
+
+En tant que VIP, il bénéficie de conseils exclusifs, renforçant son sentiment d’être un client privilégié. Et s’il est nouveau sur le site, le chatbot lui propose un tour guidé de ses fonctionnalités pour qu’il en tire le meilleur parti.
+
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 Pour les cas marketing et fidélisation
+Le client peut recevoir un résumé mensuel de ses interactions, être recontacté après un panier abandonné ou une période d’inactivité prolongée. Il peut partager une recommandation par email ou sur les réseaux sociaux pour faire découvrir un produit à un proche.
+
+
+
+
+
+
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 Pour les équipes internes
+Support client : Les agents peuvent consulter les logs des conversations pour analyser les performances du bot et assurer un suivi qualité. Ils peuvent aussi reprendre la main sur une conversation en cas de besoin.
+
+Marketing : Les analystes ont accès à un tableau de bord synthétisant les requêtes fréquentes, ce qui leur permet d’adapter les offres et de suivre les taux de conversion générés par le chatbot pour évaluer son retour sur investissement (ROI).
+
+Product Owner : Il peut configurer les scénarios de recommandation depuis une interface d’administration pour tester différentes stratégies de personnalisation.
+
+
+
+
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 Pour les développeurs
+Frontend : Les développeurs peuvent personnaliser l’apparence du widget (couleurs, icônes) pour l’intégrer harmonieusement dans l’univers graphique du site. Une API JavaScript est également disponible pour permettre le contrôle dynamique du chatbot dans une application SPA.
+
+Backend : L’équipe backend expose des endpoints REST pour récupérer l’historique utilisateur et ainsi enrichir les recommandations. Le bot repose sur un service NLP tiers pour garantir une bonne compréhension du langage naturel.
+

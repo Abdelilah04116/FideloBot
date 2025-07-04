@@ -1,0 +1,99 @@
+En tant que visiteur je veux voir l’icône du chatbot en bas à droite afin de savoir qu’une aide est disponible.
+
+En tant que visiteur je veux pouvoir cliquer sur l’icône pour ouvrir la fenêtre de chat afin de démarrer une conversation.
+
+En tant que utilisateur non connecté je veux poser des questions sur les produits afin de décider plus facilement d’un achat.
+
+En tant que utilisateur non connecté je veux recevoir une invitation à m’inscrire afin de bénéficier de recommandations personnalisées.
+
+En tant que client connecté je veux que l’agent se souvienne de mon nom afin de rendre la conversation plus conviviale.
+
+En tant que client connecté je veux que l’agent connaisse mon historique d’achats afin de me proposer des produits complémentaires.
+
+En tant que client connecté je veux recevoir des suggestions basées sur mon historique de navigation afin de découvrir de nouveaux articles.
+
+En tant que client je veux recevoir une alerte lorsque mon produit favori est en promotion afin de réaliser une bonne affaire.
+
+En tant que client je veux que l’agent me propose un bon de réduction afin de être encouragé à finaliser un achat.
+
+En tant que client je veux pouvoir ajouter un produit au panier directement depuis le chat afin de gagner du temps.
+
+En tant que visiteur je veux demander “Quel produit convient pour un cadeau d’anniversaire ?” afin de trouver rapidement une idée.
+
+En tant que visiteur je veux recevoir des recommandations par catégorie (ex. high-tech, mode) afin de explorer les rayons.
+
+En tant que client je veux poser une question sur la disponibilité en magasin afin de savoir si je peux retirer en click & collect.
+
+En tant que client je veux être informé du délai de livraison estimé afin de gérer mes attentes d’achat.
+
+En tant que client je veux vérifier le statut de ma commande afin de suivre son avancement.
+
+En tant que client je veux noter ma satisfaction après une recommandation afin de améliorer la qualité des suggestions.
+
+En tant que client je veux pouvoir signaler un problème via le chatbot afin de obtenir rapidement de l’aide.
+
+En tant que client je veux être redirigé vers un conseiller humain si l’agent ne peut pas répondre afin de résoudre mon problème.
+
+En tant que client je veux consulter un FAQ interactif via le chatbot afin de trouver mes réponses sans quitter la fenêtre de chat.
+
+En tant que client je veux que le chatbot intègre un carrousel d’images de produits afin de visualiser facilement les articles recommandés.
+
+En tant que client je veux que le chatbot me propose un lien direct vers la fiche produit afin de accéder aux détails complets.
+
+En tant que client je veux que l’agent mémorise mes préférences (couleurs, marques) afin de affiner ses prochaines recommandations.
+
+En tant que client VIP je veux bénéficier de conseils exclusifs afin de me sentir valorisé.
+
+En tant que nouvel utilisateur je veux un tour rapide des fonctionnalités du chatbot afin de savoir comment l’utiliser efficacement.
+
+En tant que client je veux demander “Quel est le top 5 des best-sellers ?” afin de découvrir les produits phares.
+
+En tant que client je veux recevoir une suggestion de cadeau en fonction du profil de la personne afin de faire plaisirs à mes proches.
+
+En tant que client je veux être informé des produits bientôt en rupture afin de anticiper mes achats.
+
+En tant que client je veux consulter les avis clients via le chatbot afin de me faire une opinion avant d’acheter.
+
+En tant que client je veux poser une question sur le processus de retour afin de connaître les conditions.
+
+En tant que client je veux être informé des opportunités de parrainage afin de bénéficier d’avantages.
+
+En tant que support client je veux accéder aux logs de discussion afin de analyser et améliorer le chatbot.
+
+En tant que support client je veux transférer la conversation du bot à un agent humain afin de gérer les cas complexes.
+
+En tant que analyste marketing je veux extraire les requêtes fréquentes via un tableau de bord afin de adapter les offres.
+
+En tant que analyste marketing je veux suivre le taux de conversion généré par le chatbot afin de mesurer son ROI.
+
+En tant que product owner je veux configurer des scénarios de recommandation dans l’admin afin de tester différentes stratégies.
+
+En tant que développeur frontend je veux pouvoir customiser l’apparence du widget (couleurs, icônes) afin de respecter la charte graphique.
+
+En tant que développeur frontend je veux exposer une API JavaScript pour ouvrir/fermer le chatbot afin de l’intégrer dans le SPA.
+
+En tant que développeur backend je veux fournir un endpoint REST pour récupérer l’historique utilisateurs afin de personnaliser les recommandations.
+
+En tant que développeur backend je veux que l’agent utilise un service de NLP tiers afin de assurer la compréhension du langage naturel.
+
+En tant que administrateur système je veux que le chatbot soit scalable afin de supporter de nombreux utilisateurs simultanés.
+
+En tant que administrateur système je veux monitorer la disponibilité du service bot afin de détecter rapidement les pannes.
+
+En tant que responsable RGPD je veux que toutes les données utilisateur soient anonymisées afin de respecter la vie privée.
+
+En tant que responsable RGPD je veux permettre à l’utilisateur de supprimer son historique afin de répondre à son droit à l’oubli.
+
+En tant que responsable sécurité je veux que les communications soient chiffrées afin de garantir la confidentialité.
+
+En tant que client je veux pouvoir noter la qualité de la recommandation (étoiles) afin de fournir un feedback rapide.
+
+En tant que client je veux recevoir un résumé mensuel de mes interactions afin de suivre mes découvertes de produits.
+
+En tant que client je veux être recontacté automatiquement après un panier abandonné afin de finaliser mon achat.
+
+En tant que client je veux recevoir un message de relance personnalisé après une inactivité prolongée afin de revenir sur le site.
+
+En tant que client je veux partager une recommandation par email ou réseau social afin de faire découvrir un produit à un ami.
+
+En tant que client je veux accéder au chatbot depuis mobile et desktop afin de bénéficier d’une expérience cohérente sur tous mes appareils.
