@@ -1,0 +1,902 @@
+[
+  {
+    "id_produit": 101,
+    "nom": "T-shirt blanc",
+    "description": "T-shirt 100% coton, unisexe",
+    "catégorie": "Vêtements",
+    "prix": 15.04,
+    "stock": 28,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 102,
+    "nom": "Caméra sport",
+    "description": "Caméra d'action étanche et compacte",
+    "catégorie": "Photo/Vidéo",
+    "prix": 468.16,
+    "stock": 36,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 103,
+    "nom": "Sac de voyage",
+    "description": "Sac à dos de randonnée résistant",
+    "catégorie": "Maroquinerie",
+    "prix": 111.28,
+    "stock": 124,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 104,
+    "nom": "Sac business",
+    "description": "Sac à dos professionnel pour laptop",
+    "catégorie": "Maroquinerie",
+    "prix": 111.02,
+    "stock": 53,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 105,
+    "nom": "Running shoes",
+    "description": "Chaussures de course haute performance",
+    "catégorie": "Chaussures",
+    "prix": 76.21,
+    "stock": 34,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 106,
+    "nom": "T-shirt blanc",
+    "description": "T-shirt 100% coton, unisexe",
+    "catégorie": "Vêtements",
+    "prix": 32.18,
+    "stock": 53,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 107,
+    "nom": "Caméra sport",
+    "description": "Caméra d'action étanche et compacte",
+    "catégorie": "Photo/Vidéo",
+    "prix": 754.5,
+    "stock": 88,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 108,
+    "nom": "T-shirt vintage",
+    "description": "T-shirt style rétro, coupe décontractée",
+    "catégorie": "Vêtements",
+    "prix": 22.81,
+    "stock": 134,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 109,
+    "nom": "Chaussures casual",
+    "description": "Baskets décontractées pour le quotidien",
+    "catégorie": "Chaussures",
+    "prix": 93.46,
+    "stock": 44,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 110,
+    "nom": "Chaussures de sport",
+    "description": "Chaussures running confortables",
+    "catégorie": "Chaussures",
+    "prix": 92.53,
+    "stock": 108,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 111,
+    "nom": "T-shirt rayé",
+    "description": "T-shirt marinière en coton doux",
+    "catégorie": "Vêtements",
+    "prix": 43.28,
+    "stock": 53,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 112,
+    "nom": "Montre vintage",
+    "description": "Montre rétro au design authentique",
+    "catégorie": "Accessoires",
+    "prix": 190.92,
+    "stock": 123,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 113,
+    "nom": "Ultrabook",
+    "description": "Ordinateur ultra-fin et léger",
+    "catégorie": "Informatique",
+    "prix": 1402.23,
+    "stock": 59,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 114,
+    "nom": "Caméra sport",
+    "description": "Caméra d'action étanche et compacte",
+    "catégorie": "Photo/Vidéo",
+    "prix": 127.49,
+    "stock": 111,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 115,
+    "nom": "T-shirt blanc",
+    "description": "T-shirt 100% coton, unisexe",
+    "catégorie": "Vêtements",
+    "prix": 43.23,
+    "stock": 107,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 116,
+    "nom": "T-shirt noir",
+    "description": "T-shirt basique en coton bio",
+    "catégorie": "Vêtements",
+    "prix": 26.43,
+    "stock": 91,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 117,
+    "nom": "Casque audio",
+    "description": "Casque stéréo haute fidélité",
+    "catégorie": "Électronique",
+    "prix": 25.41,
+    "stock": 127,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 118,
+    "nom": "Montre vintage",
+    "description": "Montre rétro au design authentique",
+    "catégorie": "Accessoires",
+    "prix": 241.43,
+    "stock": 134,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 119,
+    "nom": "PC gaming",
+    "description": "Laptop gaming haute performance",
+    "catégorie": "Informatique",
+    "prix": 997.52,
+    "stock": 16,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 120,
+    "nom": "Chaussures casual",
+    "description": "Baskets décontractées pour le quotidien",
+    "catégorie": "Chaussures",
+    "prix": 62.86,
+    "stock": 146,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 121,
+    "nom": "Sneakers blanches",
+    "description": "Baskets urbaines en cuir blanc",
+    "catégorie": "Chaussures",
+    "prix": 149.05,
+    "stock": 101,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 122,
+    "nom": "Écouteurs sport",
+    "description": "Écouteurs résistants à la transpiration",
+    "catégorie": "Électronique",
+    "prix": 44.33,
+    "stock": 73,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 123,
+    "nom": "Ordinateur portable",
+    "description": "Laptop 15 pouces pour usage professionnel",
+    "catégorie": "Informatique",
+    "prix": 681.76,
+    "stock": 65,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 124,
+    "nom": "Smartwatch",
+    "description": "Montre connectée avec écran tactile",
+    "catégorie": "Accessoires",
+    "prix": 106.05,
+    "stock": 9,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 125,
+    "nom": "Running shoes",
+    "description": "Chaussures de course haute performance",
+    "catégorie": "Chaussures",
+    "prix": 88.69,
+    "stock": 97,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 126,
+    "nom": "T-shirt vintage",
+    "description": "T-shirt style rétro, coupe décontractée",
+    "catégorie": "Vêtements",
+    "prix": 27.39,
+    "stock": 145,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 127,
+    "nom": "Écouteurs sans fil",
+    "description": "Écouteurs Bluetooth avec étui de charge",
+    "catégorie": "Électronique",
+    "prix": 88.96,
+    "stock": 89,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 128,
+    "nom": "Polo classique",
+    "description": "Polo élégant en piqué de coton",
+    "catégorie": "Vêtements",
+    "prix": 28.87,
+    "stock": 74,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 129,
+    "nom": "Casque audio",
+    "description": "Casque stéréo haute fidélité",
+    "catégorie": "Électronique",
+    "prix": 56.14,
+    "stock": 116,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 130,
+    "nom": "Lunettes de soleil",
+    "description": "Lunettes UV protection totale",
+    "catégorie": "Accessoires",
+    "prix": 94.19,
+    "stock": 66,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 131,
+    "nom": "Sac sport",
+    "description": "Sac à dos léger pour activités sportives",
+    "catégorie": "Maroquinerie",
+    "prix": 68.46,
+    "stock": 23,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 132,
+    "nom": "Casque studio",
+    "description": "Casque professionnel pour studio",
+    "catégorie": "Électronique",
+    "prix": 126.57,
+    "stock": 28,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 133,
+    "nom": "Sac sport",
+    "description": "Sac à dos léger pour activités sportives",
+    "catégorie": "Maroquinerie",
+    "prix": 58.86,
+    "stock": 97,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 134,
+    "nom": "Écouteurs sans fil",
+    "description": "Écouteurs Bluetooth avec étui de charge",
+    "catégorie": "Électronique",
+    "prix": 153.82,
+    "stock": 90,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 135,
+    "nom": "Lunettes vintage",
+    "description": "Lunettes rétro au charme authentique",
+    "catégorie": "Accessoires",
+    "prix": 145.62,
+    "stock": 16,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 136,
+    "nom": "Chaussures de sport",
+    "description": "Chaussures running confortables",
+    "catégorie": "Chaussures",
+    "prix": 94.99,
+    "stock": 81,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 137,
+    "nom": "Sac sport",
+    "description": "Sac à dos léger pour activités sportives",
+    "catégorie": "Maroquinerie",
+    "prix": 91.33,
+    "stock": 78,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 138,
+    "nom": "Lunettes polarisées",
+    "description": "Lunettes anti-reflet pour conduite",
+    "catégorie": "Accessoires",
+    "prix": 24.48,
+    "stock": 66,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 139,
+    "nom": "MacBook",
+    "description": "Ordinateur portable Apple élégant",
+    "catégorie": "Informatique",
+    "prix": 1259.82,
+    "stock": 89,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 140,
+    "nom": "Montre vintage",
+    "description": "Montre rétro au design authentique",
+    "catégorie": "Accessoires",
+    "prix": 250.55,
+    "stock": 50,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 141,
+    "nom": "Lunettes de soleil",
+    "description": "Lunettes UV protection totale",
+    "catégorie": "Accessoires",
+    "prix": 100.36,
+    "stock": 99,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 142,
+    "nom": "Casque gaming",
+    "description": "Casque gamer avec micro intégré",
+    "catégorie": "Électronique",
+    "prix": 112.63,
+    "stock": 5,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 143,
+    "nom": "Casque studio",
+    "description": "Casque professionnel pour studio",
+    "catégorie": "Électronique",
+    "prix": 106.69,
+    "stock": 56,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 144,
+    "nom": "Sneakers blanches",
+    "description": "Baskets urbaines en cuir blanc",
+    "catégorie": "Chaussures",
+    "prix": 105.69,
+    "stock": 13,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 145,
+    "nom": "Caméra vintage",
+    "description": "Appareil photo argentique rétro",
+    "catégorie": "Photo/Vidéo",
+    "prix": 763.53,
+    "stock": 141,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 146,
+    "nom": "Caméra vintage",
+    "description": "Appareil photo argentique rétro",
+    "catégorie": "Photo/Vidéo",
+    "prix": 606.28,
+    "stock": 10,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 147,
+    "nom": "Chaussures de sport",
+    "description": "Chaussures running confortables",
+    "catégorie": "Chaussures",
+    "prix": 140.59,
+    "stock": 107,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 148,
+    "nom": "Chaussures casual",
+    "description": "Baskets décontractées pour le quotidien",
+    "catégorie": "Chaussures",
+    "prix": 104.84,
+    "stock": 13,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 149,
+    "nom": "MacBook",
+    "description": "Ordinateur portable Apple élégant",
+    "catégorie": "Informatique",
+    "prix": 1307.21,
+    "stock": 40,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 150,
+    "nom": "Sac sport",
+    "description": "Sac à dos léger pour activités sportives",
+    "catégorie": "Maroquinerie",
+    "prix": 46.38,
+    "stock": 150,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 151,
+    "nom": "Sac à dos urbain",
+    "description": "Sac à dos moderne avec compartiments",
+    "catégorie": "Maroquinerie",
+    "prix": 93.0,
+    "stock": 105,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 152,
+    "nom": "Sac de voyage",
+    "description": "Sac à dos de randonnée résistant",
+    "catégorie": "Maroquinerie",
+    "prix": 48.29,
+    "stock": 90,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 153,
+    "nom": "Smartwatch",
+    "description": "Montre connectée avec écran tactile",
+    "catégorie": "Accessoires",
+    "prix": 220.29,
+    "stock": 67,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 154,
+    "nom": "Baskets montantes",
+    "description": "Sneakers high-top en toile",
+    "catégorie": "Chaussures",
+    "prix": 84.22,
+    "stock": 55,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 155,
+    "nom": "PC gaming",
+    "description": "Laptop gaming haute performance",
+    "catégorie": "Informatique",
+    "prix": 1061.58,
+    "stock": 76,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 156,
+    "nom": "Sac sport",
+    "description": "Sac à dos léger pour activités sportives",
+    "catégorie": "Maroquinerie",
+    "prix": 102.62,
+    "stock": 47,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 157,
+    "nom": "Caméra vintage",
+    "description": "Appareil photo argentique rétro",
+    "catégorie": "Photo/Vidéo",
+    "prix": 468.58,
+    "stock": 85,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 158,
+    "nom": "Écouteurs sans fil",
+    "description": "Écouteurs Bluetooth avec étui de charge",
+    "catégorie": "Électronique",
+    "prix": 175.17,
+    "stock": 111,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 159,
+    "nom": "Montre élégante",
+    "description": "Montre habillée pour occasions spéciales",
+    "catégorie": "Accessoires",
+    "prix": 90.69,
+    "stock": 89,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 160,
+    "nom": "Lunettes polarisées",
+    "description": "Lunettes anti-reflet pour conduite",
+    "catégorie": "Accessoires",
+    "prix": 145.93,
+    "stock": 7,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 161,
+    "nom": "Sneakers blanches",
+    "description": "Baskets urbaines en cuir blanc",
+    "catégorie": "Chaussures",
+    "prix": 70.96,
+    "stock": 75,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 162,
+    "nom": "Polo classique",
+    "description": "Polo élégant en piqué de coton",
+    "catégorie": "Vêtements",
+    "prix": 37.81,
+    "stock": 121,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 163,
+    "nom": "Lunettes aviateur",
+    "description": "Lunettes style pilote classique",
+    "catégorie": "Accessoires",
+    "prix": 99.46,
+    "stock": 86,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 164,
+    "nom": "Montre élégante",
+    "description": "Montre habillée pour occasions spéciales",
+    "catégorie": "Accessoires",
+    "prix": 186.28,
+    "stock": 58,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 165,
+    "nom": "Sac d'école",
+    "description": "Sac à dos spacieux pour étudiants",
+    "catégorie": "Maroquinerie",
+    "prix": 87.08,
+    "stock": 138,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 166,
+    "nom": "Montre classique",
+    "description": "Montre analogique en acier inoxydable",
+    "catégorie": "Accessoires",
+    "prix": 257.88,
+    "stock": 56,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 167,
+    "nom": "Sac de voyage",
+    "description": "Sac à dos de randonnée résistant",
+    "catégorie": "Maroquinerie",
+    "prix": 118.46,
+    "stock": 82,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 168,
+    "nom": "Lunettes de soleil",
+    "description": "Lunettes UV protection totale",
+    "catégorie": "Accessoires",
+    "prix": 90.02,
+    "stock": 140,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 169,
+    "nom": "MacBook",
+    "description": "Ordinateur portable Apple élégant",
+    "catégorie": "Informatique",
+    "prix": 874.7,
+    "stock": 62,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 170,
+    "nom": "Chromebook",
+    "description": "Ordinateur portable simple et efficace",
+    "catégorie": "Informatique",
+    "prix": 1166.23,
+    "stock": 120,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 171,
+    "nom": "Appareil instantané",
+    "description": "Caméra Polaroid pour photos instant",
+    "catégorie": "Photo/Vidéo",
+    "prix": 144.0,
+    "stock": 89,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 172,
+    "nom": "T-shirt vintage",
+    "description": "T-shirt style rétro, coupe décontractée",
+    "catégorie": "Vêtements",
+    "prix": 43.18,
+    "stock": 125,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 173,
+    "nom": "Lunettes de soleil",
+    "description": "Lunettes UV protection totale",
+    "catégorie": "Accessoires",
+    "prix": 97.77,
+    "stock": 107,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 174,
+    "nom": "Casque gaming",
+    "description": "Casque gamer avec micro intégré",
+    "catégorie": "Électronique",
+    "prix": 34.7,
+    "stock": 116,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 175,
+    "nom": "Ultrabook",
+    "description": "Ordinateur ultra-fin et léger",
+    "catégorie": "Informatique",
+    "prix": 415.92,
+    "stock": 18,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 176,
+    "nom": "Appareil instantané",
+    "description": "Caméra Polaroid pour photos instant",
+    "catégorie": "Photo/Vidéo",
+    "prix": 545.65,
+    "stock": 134,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 177,
+    "nom": "Caméra professionnelle",
+    "description": "Reflex numérique pour photographes",
+    "catégorie": "Photo/Vidéo",
+    "prix": 769.41,
+    "stock": 100,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 178,
+    "nom": "Sac de voyage",
+    "description": "Sac à dos de randonnée résistant",
+    "catégorie": "Maroquinerie",
+    "prix": 64.78,
+    "stock": 72,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 179,
+    "nom": "Sac à dos urbain",
+    "description": "Sac à dos moderne avec compartiments",
+    "catégorie": "Maroquinerie",
+    "prix": 33.87,
+    "stock": 42,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 180,
+    "nom": "Appareil photo",
+    "description": "Caméra numérique haute résolution",
+    "catégorie": "Photo/Vidéo",
+    "prix": 770.46,
+    "stock": 115,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 181,
+    "nom": "Sac de voyage",
+    "description": "Sac à dos de randonnée résistant",
+    "catégorie": "Maroquinerie",
+    "prix": 78.01,
+    "stock": 24,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 182,
+    "nom": "Montre classique",
+    "description": "Montre analogique en acier inoxydable",
+    "catégorie": "Accessoires",
+    "prix": 278.8,
+    "stock": 94,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 183,
+    "nom": "Sac sport",
+    "description": "Sac à dos léger pour activités sportives",
+    "catégorie": "Maroquinerie",
+    "prix": 68.84,
+    "stock": 61,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 184,
+    "nom": "Appareil photo",
+    "description": "Caméra numérique haute résolution",
+    "catégorie": "Photo/Vidéo",
+    "prix": 552.82,
+    "stock": 99,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 185,
+    "nom": "T-shirt blanc",
+    "description": "T-shirt 100% coton, unisexe",
+    "catégorie": "Vêtements",
+    "prix": 28.34,
+    "stock": 44,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 186,
+    "nom": "Chaussures casual",
+    "description": "Baskets décontractées pour le quotidien",
+    "catégorie": "Chaussures",
+    "prix": 114.89,
+    "stock": 45,
+    "image_url": "https://images.unsplash.com/photo-1606813902525-5e453f114ca3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 187,
+    "nom": "Casque gaming",
+    "description": "Casque gamer avec micro intégré",
+    "catégorie": "Électronique",
+    "prix": 166.67,
+    "stock": 50,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 188,
+    "nom": "Caméra sport",
+    "description": "Caméra d'action étanche et compacte",
+    "catégorie": "Photo/Vidéo",
+    "prix": 268.16,
+    "stock": 100,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 189,
+    "nom": "Appareil photo",
+    "description": "Caméra numérique haute résolution",
+    "catégorie": "Photo/Vidéo",
+    "prix": 499.62,
+    "stock": 142,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 190,
+    "nom": "Sac à dos urbain",
+    "description": "Sac à dos moderne avec compartiments",
+    "catégorie": "Maroquinerie",
+    "prix": 77.74,
+    "stock": 33,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 191,
+    "nom": "Lunettes polarisées",
+    "description": "Lunettes anti-reflet pour conduite",
+    "catégorie": "Accessoires",
+    "prix": 69.33,
+    "stock": 104,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 192,
+    "nom": "Casque gaming",
+    "description": "Casque gamer avec micro intégré",
+    "catégorie": "Électronique",
+    "prix": 37.94,
+    "stock": 118,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 193,
+    "nom": "Casque audio",
+    "description": "Casque stéréo haute fidélité",
+    "catégorie": "Électronique",
+    "prix": 25.51,
+    "stock": 17,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 194,
+    "nom": "Lunettes de soleil",
+    "description": "Lunettes UV protection totale",
+    "catégorie": "Accessoires",
+    "prix": 38.94,
+    "stock": 37,
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 195,
+    "nom": "Sac à dos urbain",
+    "description": "Sac à dos moderne avec compartiments",
+    "catégorie": "Maroquinerie",
+    "prix": 98.81,
+    "stock": 16,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 196,
+    "nom": "Casque studio",
+    "description": "Casque professionnel pour studio",
+    "catégorie": "Électronique",
+    "prix": 73.02,
+    "stock": 141,
+    "image_url": "https://images.unsplash.com/photo-1558530712-d5c5e7e66e7c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 197,
+    "nom": "Montre vintage",
+    "description": "Montre rétro au design authentique",
+    "catégorie": "Accessoires",
+    "prix": 224.94,
+    "stock": 140,
+    "image_url": "https://images.unsplash.com/photo-1524805444973-151ef0306d87?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 198,
+    "nom": "Polo classique",
+    "description": "Polo élégant en piqué de coton",
+    "catégorie": "Vêtements",
+    "prix": 39.27,
+    "stock": 9,
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155228ef2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 199,
+    "nom": "Ultrabook",
+    "description": "Ordinateur ultra-fin et léger",
+    "catégorie": "Informatique",
+    "prix": 1364.6,
+    "stock": 86,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id_produit": 200,
+    "nom": "Sac business",
+    "description": "Sac à dos professionnel pour laptop",
+    "catégorie": "Maroquinerie",
+    "prix": 64.95,
+    "stock": 53,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  }
+]
